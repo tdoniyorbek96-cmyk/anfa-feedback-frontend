@@ -61,7 +61,7 @@ function PositiveResult() {
   const BONUSES = useMemo(
     () => [
       { id: 'lab10', title: t('bonus.lab10') },
-      { id: 'uziFree', title: t('bonus.uziFree') },
+      { id: 'lab30', title: t('bonus.uziFree') },
       { id: 'doc50', title: t('bonus.doc50') },
       { id: 'checkup10', title: t('bonus.checkup10') },
     ],
