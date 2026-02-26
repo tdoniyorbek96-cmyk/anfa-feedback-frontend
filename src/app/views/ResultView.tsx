@@ -334,8 +334,8 @@ function PositiveResult() {
             {t('follow_us')}
           </h3>
           <div className="grid grid-cols-2 gap-3">
-            <SocialButton icon={<Instagram className="text-pink-600" />} label="Instagram" href="#" small />
-            <SocialButton icon={<Youtube className="text-red-600" />} label="YouTube" href="#" small />
+            <SocialButton icon={<Instagram className="text-pink-600" />} label="Instagram" href="https://instagram.com/_u/anfa_clinic" small />
+            <SocialButton icon={<Youtube className="text-red-600" />} label="YouTube" href="youtube://www.youtube.com/@anfa_clinic" small />
           </div>
         </div>
       </div>
