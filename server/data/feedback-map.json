@@ -1,0 +1,750 @@
+{
+  "8095c74b-c226-4561-a3d8-c18c4d62fa70": {
+    "telegramMessageId": 77,
+    "rating": 1,
+    "department": "",
+    "comment": "",
+    "phone": "+998 94 566-34-24",
+    "createdAt": "2026-02-01T17:37:31.383Z",
+    "updatedAt": "2026-02-01T17:37:40.115Z"
+  },
+  "af2eff55-085d-4121-aa24-2b00ae5f59dd": {
+    "telegramMessageId": 78,
+    "rating": 1,
+    "department": "",
+    "comment": "",
+    "phone": "+998 94 566-34-24",
+    "createdAt": "2026-02-01T17:37:56.217Z",
+    "updatedAt": "2026-02-01T17:38:23.349Z"
+  },
+  "f4468d52-6500-4c2f-ac47-53da95b645d3": {
+    "telegramMessageId": 79,
+    "rating": 1,
+    "department": "",
+    "comment": "",
+    "phone": "+998 94 566-34-24",
+    "createdAt": "2026-02-01T17:46:21.592Z",
+    "updatedAt": "2026-02-01T17:46:39.664Z"
+  },
+  "59ad829e-1f33-484b-b17d-e1981d3967b3": {
+    "telegramMessageId": 80,
+    "rating": 3,
+    "department": "doctors",
+    "comment": "Shifokorlar muomilasi yaxshi emas!",
+    "phone": "+998 94 566-34-24",
+    "createdAt": "2026-02-01T17:47:04.795Z",
+    "updatedAt": "2026-02-01T17:47:31.174Z"
+  },
+  "902f55e2-4a94-41fc-95fb-39908e18e2ec": {
+    "telegramMessageId": 81,
+    "rating": 1,
+    "department": "doctors",
+    "comment": "Yomon",
+    "phone": "",
+    "createdAt": "2026-02-01T17:55:25.269Z",
+    "updatedAt": "2026-02-01T17:55:25.269Z"
+  },
+  "92833c52-89a8-4479-89ec-ee7f722372d8": {
+    "telegramMessageId": 82,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "createdAt": "2026-02-01T17:56:22.888Z",
+    "updatedAt": "2026-02-01T17:56:22.888Z"
+  },
+  "438124d8-f386-4082-9b98-88cd939b2274": {
+    "telegramMessageId": 83,
+    "rating": 1,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "createdAt": "2026-02-01T17:58:23.448Z",
+    "updatedAt": "2026-02-01T17:58:23.449Z"
+  },
+  "e123d617-7ced-4302-bc74-65b666a0f815": {
+    "telegramMessageId": 85,
+    "rating": 1,
+    "department": "",
+    "comment": "",
+    "phone": "+998 94 566-34-24",
+    "createdAt": "2026-02-01T18:11:24.196Z",
+    "updatedAt": "2026-02-01T18:11:46.970Z"
+  },
+  "7723ca22-c88d-4337-9304-786d81ea3bec": {
+    "telegramMessageId": 86,
+    "rating": 1,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "createdAt": "2026-02-02T20:07:53.679Z",
+    "updatedAt": "2026-02-02T20:07:53.679Z"
+  },
+  "979a49e2-214c-4909-bafb-2141e74e933a": {
+    "telegramMessageId": 87,
+    "rating": 1,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "createdAt": "2026-02-02T20:13:18.171Z",
+    "updatedAt": "2026-02-02T20:13:18.171Z"
+  },
+  "1056609b-ba08-4527-bfdc-fd5c47bfaf97": {
+    "telegramMessageId": 88,
+    "rating": 1,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "createdAt": "2026-02-02T20:16:43.981Z",
+    "updatedAt": "2026-02-02T20:16:43.981Z"
+  },
+  "5b69ef42-1b88-4703-9658-a0d95e6ee02d": {
+    "telegramMessageId": 89,
+    "rating": 1,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "createdAt": "2026-02-02T20:21:36.373Z",
+    "updatedAt": "2026-02-02T20:21:36.373Z"
+  },
+  "9c01532a-7777-4afa-aadd-df07ed7fbf86": {
+    "telegramMessageId": 90,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-02T21:34:15.409Z",
+    "updatedAt": "2026-02-02T21:34:15.409Z"
+  },
+  "992fa44f-c531-4908-8b7c-028f58470e99": {
+    "telegramMessageId": 91,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-02T21:56:21.677Z",
+    "updatedAt": "2026-02-02T21:56:21.677Z"
+  },
+  "c3387eec-9d5d-473d-9c4e-f9c61a3a803c": {
+    "telegramMessageId": 92,
+    "rating": 3,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-02T22:20:13.869Z",
+    "updatedAt": "2026-02-02T22:20:13.871Z"
+  },
+  "5527ab87-e934-48c5-b7b5-f24e70e251e9": {
+    "telegramMessageId": 93,
+    "rating": 3,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-02T22:51:17.524Z",
+    "updatedAt": "2026-02-02T22:51:17.525Z"
+  },
+  "0c07bda4-0bb5-4e63-8bf6-2471b9da3b5d": {
+    "telegramMessageId": 96,
+    "rating": 4,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-02T23:08:59.935Z",
+    "updatedAt": "2026-02-02T23:08:59.936Z"
+  },
+  "d8eeec9a-91c7-4cb0-9238-b3d572496a82": {
+    "telegramMessageId": 99,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-03T04:34:49.066Z",
+    "updatedAt": "2026-02-03T04:34:49.066Z"
+  },
+  "628df30a-e6ad-430c-b82e-ae400dee45c9": {
+    "telegramMessageId": 100,
+    "rating": 3,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-03T05:09:03.944Z",
+    "updatedAt": "2026-02-03T05:09:03.945Z"
+  },
+  "62936e84-c4ce-4fe9-aced-44dcd396ba09": {
+    "telegramMessageId": 101,
+    "rating": 2,
+    "department": "reception",
+    "comment": "yaxshimas",
+    "phone": "+998 77 307-58-08",
+    "urgent": true,
+    "createdAt": "2026-02-03T05:09:55.461Z",
+    "updatedAt": "2026-02-03T05:10:29.431Z"
+  },
+  "ccfcc981-9955-464d-8126-9c6efe1fbf37": {
+    "telegramMessageId": 103,
+    "rating": 3,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-04T00:28:16.287Z",
+    "updatedAt": "2026-02-04T00:28:16.289Z"
+  },
+  "3c9e2704-8e25-4997-8682-6904deadd005": {
+    "telegramMessageId": 104,
+    "rating": 3,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-04T06:07:42.700Z",
+    "updatedAt": "2026-02-04T06:07:42.702Z"
+  },
+  "d479a671-9861-47f9-a860-0d7bea2d7016": {
+    "telegramMessageId": 105,
+    "rating": 2,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": true,
+    "createdAt": "2026-02-04T06:08:02.887Z",
+    "updatedAt": "2026-02-04T06:08:02.887Z"
+  },
+  "b3ef466e-3106-4967-919d-245f250a24f0": {
+    "telegramMessageId": 106,
+    "rating": 3,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-04T06:08:08.405Z",
+    "updatedAt": "2026-02-04T06:08:08.405Z"
+  },
+  "c8433641-6b56-4ca3-ad6c-5b9ab42bed4e": {
+    "telegramMessageId": 107,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-04T13:03:23.969Z",
+    "updatedAt": "2026-02-04T13:03:23.969Z"
+  },
+  "838497ef-ccbf-49fe-a488-bf134c1243b6": {
+    "telegramMessageId": 108,
+    "rating": 4,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-04T13:09:04.758Z",
+    "updatedAt": "2026-02-04T13:09:04.758Z"
+  },
+  "e4596fc1-869c-4fff-94cf-34afcddd0923": {
+    "telegramMessageId": 109,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-04T13:52:31.655Z",
+    "updatedAt": "2026-02-04T13:52:31.655Z"
+  },
+  "166d6935-e81d-45d2-80ba-ef0252fbd865": {
+    "telegramMessageId": 110,
+    "rating": 4,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-04T13:53:20.559Z",
+    "updatedAt": "2026-02-04T13:53:20.559Z"
+  },
+  "62f1c2dd-dae9-4321-bafd-424ffe3f8692": {
+    "telegramMessageId": 111,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-04T13:54:47.039Z",
+    "updatedAt": "2026-02-04T13:54:47.039Z"
+  },
+  "d5036f6d-e174-414d-9102-fa6921ee80fc": {
+    "telegramMessageId": 112,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-04T14:18:08.976Z",
+    "updatedAt": "2026-02-04T14:18:08.976Z"
+  },
+  "14517f8d-911f-4b0b-b372-a3b5306ccdf1": {
+    "telegramMessageId": 113,
+    "rating": 4,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-04T14:19:48.329Z",
+    "updatedAt": "2026-02-04T14:19:48.329Z"
+  },
+  "c38a1aa9-af51-42c6-8669-40be00981821": {
+    "telegramMessageId": 114,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-04T14:27:09.551Z",
+    "updatedAt": "2026-02-04T14:27:09.551Z"
+  },
+  "6c694b1d-a9ef-4d51-9733-8133db03be8d": {
+    "telegramMessageId": 115,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-04T15:21:00.389Z",
+    "updatedAt": "2026-02-04T15:21:00.390Z"
+  },
+  "043bc46a-11f4-460d-9d88-9b0d84d9c2d6": {
+    "telegramMessageId": 116,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-04T15:22:01.397Z",
+    "updatedAt": "2026-02-04T15:22:01.397Z"
+  },
+  "9392326a-4e32-45ca-9be6-ce64998ef8ce": {
+    "telegramMessageId": 117,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-04T15:23:19.219Z",
+    "updatedAt": "2026-02-04T15:23:19.219Z"
+  },
+  "770d7ded-5bbe-4cce-8fcb-48776206c928": {
+    "telegramMessageId": 118,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-04T15:27:38.402Z",
+    "updatedAt": "2026-02-04T15:27:38.402Z"
+  },
+  "9c2b0222-fc4e-49aa-a63a-e190d1a12599": {
+    "telegramMessageId": 119,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-04T15:29:31.720Z",
+    "updatedAt": "2026-02-04T15:29:31.720Z"
+  },
+  "6f22e09e-e499-424e-b1c7-f36b2ec3673a": {
+    "telegramMessageId": 120,
+    "rating": 4,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-04T15:30:08.457Z",
+    "updatedAt": "2026-02-04T15:30:08.457Z"
+  },
+  "18227f99-9149-4e04-9671-9f9e8d1dcf15": {
+    "telegramMessageId": 121,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-04T15:44:59.719Z",
+    "updatedAt": "2026-02-04T15:44:59.719Z"
+  },
+  "50d14d66-ca4d-4922-a0c1-dc6f1d5a4654": {
+    "telegramMessageId": 122,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-04T15:49:45.332Z",
+    "updatedAt": "2026-02-04T15:49:45.332Z"
+  },
+  "01db57be-85f5-4a23-83ba-5d3538632389": {
+    "telegramMessageId": 123,
+    "rating": 4,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-04T15:49:58.870Z",
+    "updatedAt": "2026-02-04T15:49:58.870Z"
+  },
+  "922a4e39-a2da-424e-8ff9-ff480b209463": {
+    "telegramMessageId": 124,
+    "rating": 4,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-04T15:50:14.805Z",
+    "updatedAt": "2026-02-04T15:50:14.805Z"
+  },
+  "0a1ed6c0-3e90-42ab-bd8e-78d6101dbd3b": {
+    "telegramMessageId": 125,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-04T15:50:29.103Z",
+    "updatedAt": "2026-02-04T15:50:29.103Z"
+  },
+  "43f50ddc-b815-4e3f-a161-cf003afab667": {
+    "telegramMessageId": 126,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-04T15:50:41.571Z",
+    "updatedAt": "2026-02-04T15:50:41.571Z"
+  },
+  "4b99de17-4026-4125-b5ac-aa36d7d1eeb9": {
+    "telegramMessageId": 127,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-04T15:51:15.745Z",
+    "updatedAt": "2026-02-04T15:51:15.745Z"
+  },
+  "71a20449-fa48-4560-a2de-3e32f7480286": {
+    "telegramMessageId": 128,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-04T15:51:28.038Z",
+    "updatedAt": "2026-02-04T15:51:28.038Z"
+  },
+  "e31620db-9a22-42f2-b239-5733f4feda49": {
+    "telegramMessageId": 129,
+    "rating": 4,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-04T15:51:41.289Z",
+    "updatedAt": "2026-02-04T15:51:41.289Z"
+  },
+  "20c2652e-7998-434c-906a-8a85bbbbcc2f": {
+    "telegramMessageId": 130,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-04T15:52:19.828Z",
+    "updatedAt": "2026-02-04T15:52:19.828Z"
+  },
+  "0254c78c-d922-4368-9c31-63b8b5a0d879": {
+    "telegramMessageId": 131,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-04T15:52:32.269Z",
+    "updatedAt": "2026-02-04T15:52:32.269Z"
+  },
+  "a4429915-b65d-4439-bb35-2b9d3648b2dd": {
+    "telegramMessageId": 132,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-04T15:52:47.694Z",
+    "updatedAt": "2026-02-04T15:52:47.694Z"
+  },
+  "d5ed3cc5-3afe-42df-a163-6f77eb1ee3dc": {
+    "telegramMessageId": 133,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-04T16:47:55.691Z",
+    "updatedAt": "2026-02-04T16:47:55.691Z"
+  },
+  "0a837380-6762-49e4-b5d1-cbb4b46649d9": {
+    "telegramMessageId": 134,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-04T16:48:14.708Z",
+    "updatedAt": "2026-02-04T16:48:14.708Z"
+  },
+  "b1147876-6094-4f18-97c9-9d0d4490a510": {
+    "telegramMessageId": 135,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-04T16:48:29.125Z",
+    "updatedAt": "2026-02-04T16:48:29.125Z"
+  },
+  "f754d68d-ab50-41c5-bdcc-cc53f4bbb405": {
+    "telegramMessageId": 136,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-05T04:28:30.652Z",
+    "updatedAt": "2026-02-05T04:28:30.652Z"
+  },
+  "3c2fe023-783f-4c57-a654-605b073efb92": {
+    "telegramMessageId": 137,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-05T04:28:44.301Z",
+    "updatedAt": "2026-02-05T04:28:44.301Z"
+  },
+  "1e4cb8db-45de-4d9e-a742-c7312a9f9495": {
+    "telegramMessageId": 138,
+    "rating": 4,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-05T04:55:33.501Z",
+    "updatedAt": "2026-02-05T04:55:33.502Z"
+  },
+  "e481ab89-57d3-4f42-80cb-9f31cd44e61e": {
+    "telegramMessageId": 139,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-05T04:55:45.810Z",
+    "updatedAt": "2026-02-05T04:55:45.811Z"
+  },
+  "4c0e30f3-6ad3-46f2-9ff8-285658df5197": {
+    "telegramMessageId": 140,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-05T04:56:02.165Z",
+    "updatedAt": "2026-02-05T04:56:02.165Z"
+  },
+  "65a6188f-3f46-414c-a505-dc7b900e410e": {
+    "telegramMessageId": 141,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-05T04:56:17.745Z",
+    "updatedAt": "2026-02-05T04:56:17.745Z"
+  },
+  "a91848a1-92cc-4075-8849-d16269a15cd4": {
+    "telegramMessageId": 142,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-05T04:57:22.279Z",
+    "updatedAt": "2026-02-05T04:57:22.279Z"
+  },
+  "65d409f8-2929-4462-bb2b-f0f394706b4a": {
+    "telegramMessageId": 143,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-05T05:06:23.907Z",
+    "updatedAt": "2026-02-05T05:06:23.908Z"
+  },
+  "79e8b105-d27b-4fbf-af04-11f37e2a7cc1": {
+    "telegramMessageId": 144,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-05T05:07:16.748Z",
+    "updatedAt": "2026-02-05T05:07:16.749Z"
+  },
+  "b5ced8db-252a-4fe6-aff9-a3349f4a6774": {
+    "telegramMessageId": 145,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-05T05:07:40.366Z",
+    "updatedAt": "2026-02-05T05:07:40.366Z"
+  },
+  "bf46c848-600f-4f7c-ae03-8b930fd2e379": {
+    "telegramMessageId": 146,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-05T05:07:56.940Z",
+    "updatedAt": "2026-02-05T05:07:56.940Z"
+  },
+  "c3dcdeb6-8261-4acf-affa-fefd85a1a37a": {
+    "telegramMessageId": 147,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-05T05:26:12.089Z",
+    "updatedAt": "2026-02-05T05:26:12.089Z"
+  },
+  "b85f97d4-d2c9-47f8-b7bb-1eb97cd355f2": {
+    "telegramMessageId": 148,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-05T05:26:25.316Z",
+    "updatedAt": "2026-02-05T05:26:25.316Z"
+  },
+  "7ff294fd-52bc-4fe9-a6b1-055838fc59dc": {
+    "telegramMessageId": 149,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-05T05:29:28.930Z",
+    "updatedAt": "2026-02-05T05:29:28.930Z"
+  },
+  "92a28048-3a8d-4100-bc96-fdd849a3ce8e": {
+    "telegramMessageId": 150,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-05T05:33:22.416Z",
+    "updatedAt": "2026-02-05T05:33:22.416Z"
+  },
+  "3ddbd4a3-7168-4ce5-8495-8f87c053e9e3": {
+    "telegramMessageId": 151,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-05T05:34:18.310Z",
+    "updatedAt": "2026-02-05T05:34:18.310Z"
+  },
+  "66166042-aa02-4976-864f-95b298f296fa": {
+    "telegramMessageId": 152,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-05T05:35:31.920Z",
+    "updatedAt": "2026-02-05T05:35:31.920Z"
+  },
+  "70dc98fd-9a27-4c65-93f1-e34279427ae4": {
+    "telegramMessageId": 153,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-05T05:40:23.495Z",
+    "updatedAt": "2026-02-05T05:40:23.495Z"
+  },
+  "67fb74a1-0819-4ed5-9b9d-bf8eee8be57d": {
+    "telegramMessageId": 154,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-05T05:42:45.419Z",
+    "updatedAt": "2026-02-05T05:42:45.419Z"
+  },
+  "6fb126c2-cc0a-4174-bed1-fe20dd6d3bc2": {
+    "telegramMessageId": 155,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-05T06:46:59.454Z",
+    "updatedAt": "2026-02-05T06:46:59.454Z"
+  },
+  "f66c8047-e5e9-4285-963b-18c94fc782ab": {
+    "telegramMessageId": 156,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-13T12:36:19.539Z",
+    "updatedAt": "2026-02-13T12:36:19.540Z"
+  },
+  "b8aeee24-e297-4c9c-bcf6-6d1c7700d06b": {
+    "telegramMessageId": 157,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-13T12:43:52.689Z",
+    "updatedAt": "2026-02-13T12:43:52.689Z"
+  },
+  "1dabce05-8b63-432c-ba83-268c1330271a": {
+    "telegramMessageId": 158,
+    "rating": 5,
+    "department": "",
+    "comment": "",
+    "phone": "",
+    "urgent": false,
+    "createdAt": "2026-02-13T13:01:10.960Z",
+    "updatedAt": "2026-02-13T13:01:10.960Z"
+  }
+}
