@@ -77,7 +77,7 @@ export const translations = {
     cancel: "Отмена",
     confirm: "Подтвердить",
     select_department: "Выберите отдел (необязательно)",
-    submit_feedback: "Отправ��ть отзыв",
+    submit_feedback: "Отправить отзыв",
     analyzing: "Анализируем ваш отзыв...",
     success_title: "Спасибо! Если хотите, оставьте отзыв на одной из платформ ниже",
     public_share: "Хотите поделиться своим опытом публично?",
